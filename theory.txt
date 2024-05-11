@@ -1,0 +1,22 @@
+
+  ----------function------------
+  1. getElementById()
+  2. getElementsByClassName()
+  3. getElementsByTag()
+  4. querySelector()
+
+  ----------Event--------------
+  1. onclick() //btn
+  2. onchange() //input
+  3. onsubmit() //form
+  4. onblur() //input
+  5. onkeyup() //input
+  6. onkeydown() //input
+  7. onmouseover() //input
+
+  ---------convart string to number---------
+  parseInt("60")=>60
+  parseFloat("70.55")=>70.55
+
+  -----------DOM----------
+  Document Object Model
